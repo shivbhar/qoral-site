@@ -9,13 +9,13 @@ white: #ffffff
 
 @font-face {
   font-family: 'Avenir Book';
-  src: url('../fonts/Avenir-Book.ttf');
+  src: url('fonts/Avenir-Book.ttf');
 }
 
 
 @font-face {
   font-family: 'Mermaid';
-  src: url('../fonts/Mermaid.ttf');
+  src: url('fonts/Mermaid.ttf');
 }
 
 
@@ -303,36 +303,44 @@ a.link {
 }
 
 .main-pic {
-  background-image: url("../images/main3.png");
+  background-image: url("images/main3.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .laptop-pic {
-  content: url("../images/laptop.png");
+  content: url("images/laptop.png");
   width: 100%
 }
 
 .screen-pic {
-  content: url("../images/browser2.png");
+  content: url("images/browser2.png");
   width:80%
 }
 
 .clock-pic {
-  content: url("../images/clock2.png");
+  content: url("images/clock2.png");
   width:40%
 }
 
 .clipboard-pic {
-  content: url("../images/clipboard2.png");
+  content: url("images/clipboard2.png");
   width:70%
 }
 .clipboard2-pic {
-  content: url("../images/clipboard4.png");
+  content: url("images/clipboard4.png");
 }
 
 .backpack-pic {
-  content: url("../images/pinkbackpack.png");
+  content: url("images/yellowpack.png");
+}
+
+.session-pic {
+  content: url("images/session.png");
+}
+
+.gtown-pic {
+  content: url("images/gtown.png");
 }
 
 .absolute {
