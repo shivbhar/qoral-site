@@ -647,6 +647,9 @@ a:focus {
   .lg-top-0 {
     top: 0
   }
+  .lg-fs-4{
+    font-size: 4rem;
+  }
   .lg-left-0 {
     left: 0
   }
@@ -964,6 +967,9 @@ a:focus {
 @media (min-width:52rem) and (max-width:71.99rem) {
   .md-top-0 {
     top: 0
+  }
+  .md-fs-3-5{
+    font-size: 3.5rem;
   }
 
   .md-mt0 {
@@ -1606,7 +1612,9 @@ a:focus {
   .sm-top-0 {
     top: 0
   }
-
+  .sm-fs-3-5{
+    font-size: 3.5rem;
+  }
   .sm-mt0 {
     margin-top: 0
   }
@@ -1665,6 +1673,10 @@ a:focus {
 @media (max-width:39.99rem) {
   .xs-top-0 {
     top: 0
+  }
+
+  .xs-fs-3-5{
+    font-size: 3.5rem;
   }
 
   .xs-mx-auto {
